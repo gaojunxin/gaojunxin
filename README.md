@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### <div align="center">I'm Gaojunxin, a seasoned enterprise-level software developer 👨‍💻 with a passion for crafting robust solutions since 2016 🚀. </div>  
+### <div align="center">I'm Gaojunxin, 一个企业级应用软件开发者 👨‍💻 从2016开始一直从事相关行业 🚀. </div>  
   
 
 - 🔭 我目前正在探索成为独立开发者，有一个自己的作品  
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Recent Blog Posts  
+## 最近文章 
 https://www.gaojunxin.cn/article/13  
   
 
