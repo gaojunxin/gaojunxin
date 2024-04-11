@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## My Skill Set  
+## 我的技术栈  
 <table><tr><td valign="top" width="33%">
 
 
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Connect with me  
+## 联系我  
 我的邮箱：gjx.xin@qq.com
 
 我的博客：[www.gaojunxin.cn](https://www.gaojunxin.cn)  
