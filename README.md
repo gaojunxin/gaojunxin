@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<img src="http://image.gaojunxin.cn/i/2024/04/11/661747508c630.jpg" align="center" style="width: 50%" />
-</div>  
-  
 
 ### <div align="center">I'm Gaojunxin, a seasoned enterprise-level software developer 👨‍💻 with a passion for crafting robust solutions since 2016 🚀. </div>  
   
