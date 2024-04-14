@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 
 
 
-## 我的组品
+## 我的作品
 
 主页地址：[https://www.gaojunxin.cn/works](https://www.gaojunxin.cn/works)
 
@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 
 ## 最近文章 
 
-https://www.gaojunxin.cn/article/13  
+[介绍一款自己开发的一款简历编辑器工具](https://www.gaojunxin.cn/article/13)  
 
 
 
