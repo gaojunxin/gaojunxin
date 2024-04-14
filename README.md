@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-### <div align="center">I'm Gaojunxin, 一个企业级应用软件开发者 👨‍💻 从2016开始一直从事相关行业 🚀. </div>  
+### <div align="center">I'm Gaojunxin, 一个企业级应用软件从业者 👨‍💻 从2016开始一直从事相关行业 🚀. </div>  
   
 
-- 🔭 我目前正在探索成为独立开发者，有一个自己的作品  
+- 🔭 我目前正在探索成为独立开发者，逐步产出自己的作品  
   
 
-- 🌱 我目前正在学习vue3相关的内容  
+- 🌱 我目前正在学习vue3相关的内容，当然c++也将是我进一步的学习目标  
   
 
 - ❓ 可以和我一起交流java技术栈和web前端相关的内容  
@@ -125,5 +125,3 @@ https://www.gaojunxin.cn/article/13
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
