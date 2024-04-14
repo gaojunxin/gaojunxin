@@ -105,13 +105,21 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## 最近文章 
-https://www.gaojunxin.cn/article/13  
-  
+
+## 我的组品
+
+主页地址：[https://www.gaojunxin.cn/works](https://www.gaojunxin.cn/works)
+
+在线简历设计器：[http://cv.gaojunxin.cn](http://cv.gaojunxin.cn)
+
 
 <br/>  
 
-  
+## 最近文章 
+
+https://www.gaojunxin.cn/article/13  
+
+
 
 <br/>  
 
