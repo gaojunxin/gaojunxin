@@ -115,14 +115,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
-## 最近文章 
-
-[介绍一款自己开发的一款简历编辑器工具](https://www.gaojunxin.cn/article/13)  
-
-
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=gaojunxin&&style=flat-square" align="center" />
 </div>  
