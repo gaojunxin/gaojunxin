@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 
 
-### <div align="center">I'm Gaojunxin, 一个企业级应用软件从业者 👨‍💻 从2016开始一直从事相关行业 🚀. </div>  
+### <div align="center">I'm Gaojunxin, 一个java软件开发工程师 👨‍💻 从2015开始一直从事相关行业 🚀. </div>  
   
 
-- 🔭 我目前正在探索成为独立开发者，逐步产出自己的作品  
+- 🔭 我目前正在探索成为独立开发者 
   
 
-- 🌱 我目前正在学习vue3相关的内容，当然c++也将是我进一步的学习目标  
+- 🌱 我目前正在学习c++跨平台开发技术
   
 
-- ❓ 可以和我一起交流java技术栈和web前端相关的内容  
+- ❓ 可以和我一起交流web应用开发、工具类软件开发、服务器运维相关内容
   
 
 <br/>  
@@ -94,6 +94,8 @@ Here are some ideas to get you started:
 我的邮箱：gjx.xin@qq.com
 
 我的博客：[www.gaojunxin.cn](https://www.gaojunxin.cn)  
+
+我的作品：[https://www.gaojunxin.cn/works](https://www.gaojunxin.cn/works)
   
 
 <br/>  
@@ -103,14 +105,6 @@ Here are some ideas to get you started:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gaojunxin&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-
-## 我的作品
-
-主页地址：[https://www.gaojunxin.cn/works](https://www.gaojunxin.cn/works)
-
-在线简历设计器：[http://cv.gaojunxin.cn](http://cv.gaojunxin.cn)
 
 
 <br/>  
